@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prasanna..😎👨‍💻
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning mobile app development
-- 💞️ I’m looking to collaborate on app development in both native and hybrid applications.
+- 👀 I’m interested in FullStack web development..
+- 🌱 I’m currently learning mobile app development with ReactNative..
+- 💞️ I’m looking to collaborate on app development in both native and hybrid applications..
 - 📫 How to reach me send an email to prsna003@gmail.com
 
 <!---
